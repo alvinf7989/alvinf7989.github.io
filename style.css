@@ -81,3 +81,11 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+
+.yellow-bored {
+    border: solid;
+    border-width: 5px;
+    border-color: yellow;
+    background-color: black;
+    color: white;
+}
